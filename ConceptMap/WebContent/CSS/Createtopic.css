@@ -1,0 +1,279 @@
+/* CSS Document */
+.Title{
+	font-size:25px;
+	color:#000;
+	text-align:center;
+}
+.Normal{
+	font-size:18px;
+	color:#000;
+}
+.Normal2{
+	font-size:18px;
+	color:#000;
+	float:left;
+}
+.Normal22{
+	font-size:18px;
+	color:#000;
+}
+
+.Normal3{
+	margin-left:25px;
+	text-align:left;
+	font-size:18px;
+	color:#000;
+}
+.Normal33{
+	margin-left:10px;
+	text-align:left;
+	font-size:18px;
+	color:#000;
+}
+.Normal34{
+	margin-left:50px;
+	text-align:left;
+	font-size:18px;
+	color:#000;
+}
+.Normal4{
+	text-align:left;
+	font-size:18px;
+	color:#000;
+}
+.Normal5{
+	text-align:left;
+	font-size:18px;
+	color:#000;
+}
+.Textbox{
+	width:auto;
+	height:25px;
+	font-size:16px;
+}
+.Textbox2{
+	width:auto;
+	height:25px;
+	font-size:16px;
+}
+.On1ROW{
+	width:auto;
+	height:25px;
+}
+.buttonDELETE{
+	width:10px;
+	height:10px;
+}
+#Frame{
+	background:url('../img/section_bg.png');
+	border:1px solid #06F;
+	margin:10px auto 0;
+	overflow:hidden;
+	
+	padding:20px 20px 20px 20px;
+	width:800px;
+	height:400px;
+	
+	-moz-box-shadow:0 0 10px #C4C4C4;
+	-webkit-box-shadow:0 0 10px #C4C4C4;
+	box-shadow:0 0 10px #C4C4C4;
+}
+#Frame a{
+	float:left;
+	width:50px;
+	height: 50;
+	text-align:center;	
+}
+#a1{
+	float:left;
+	margin-left:10px;
+	margin-right:500px;
+	width:50px;
+	height: 10px;
+	text-align:center;	
+}
+.MarginRight{
+	font-size:18px;
+	color:#000;
+	float:left;
+	margin-left:400px;
+	margin-right:200px;
+}
+#table{
+	border-collapse:collapse;
+	border-style:solid;
+	border-color:#06F;
+	background-color:#FFF;
+	color:#000;
+	float:left;
+}
+#table2{
+	margin-left:0px;
+	border-collapse:collapse;
+	border-style:solid;
+	border-color:#06F;
+	background-color:#FFF;
+	color:#000;
+	float:left;
+}
+#tableTEXT{
+	margin-left:70px;
+	border-collapse:collapse;
+	border-style:solid;
+	border-width:1px;
+	border-color:#06F;	
+	color:#000;
+}
+#tableTEXT2{
+	margin-right:100px;
+}
+#tableTEXT4{
+	margin-right:70px;
+}
+#listtable{	
+	border-collapse:collapse;
+	border-style:solid 1px;;
+	border-color:#06F;
+	background-color:#FFF;
+	color:#000;
+	float:left;
+}
+#listtable2{
+	margin-left:0px;
+	border-collapse:collapse;
+	border-style:solid 1px;
+	border-color:#06F;
+	background-color:#FFF;
+	color:#000;
+	float:left;
+}
+#listtableTEXT{
+	margin-left:80px;
+}
+#listtableTEXT2{
+	margin-right:100px;
+}
+#listtableTEXT4{
+	margin-right:55px;
+}
+#buttonBOTTOM{
+	margin-top:200px;
+	width:150px !important;	
+}
+#buttonBOTTOM2{
+	margin-top:200px;
+	margin-left:50px;
+}
+
+#tabledetailteacher{
+	border-collapse:collapse;
+	border-style:solid;
+	border-color:#06F;
+	background-color:#FFF;
+	color:#000;
+	float:left;
+	margin-left:100px;
+	margin-top:50px;
+}
+#texttabledetailteacher{	
+	margin-right:300px;
+}
+#tableTEXT11{
+	margin-left:200px;
+	border-collapse:collapse;
+	border-style:solid;
+	border-width:1px;
+	border-color:#06F;	
+	color:#000;	
+}
+#listtabledetailteacher{
+	margin-left:100px;
+	border-collapse:collapse;
+	border-style:solid 1px;
+	border-color:#06F;
+	background-color:#FFF;
+	color:#000;
+	float:left;
+}
+#listtableTEXT12{
+	margin-left:330px;
+}
+#listtableTEXT13{
+	margin-left:350px;
+}
+#listtableTEXT14{
+	margin-left:230px;
+}
+.ReadOnly{
+	background:url(../img/ReadOnly.PNG) center;
+	padding:41px 8px;
+	float:left;
+}
+.Edit{
+	background:url(../img/edit.PNG) center;
+	padding:41px 6px 38px;
+}
+.NoAccess{
+	background:url(../img/No%20Access.PNG) center;
+	padding:41px 6px;
+}
+.imgDIST{
+	margin-left:150px;
+}
+.imgDIST2{
+	margin-right:150px;
+}
+.imgcheckdist{
+	float:left;
+	margin-left:300px;
+}
+.MarginRight2{
+	font-size:18px;
+	color:#000;
+	margin-right:100px;
+}
+#table3{
+	border-collapse:collapse;
+	border-style:solid;
+	border-color:#06F;
+	background-color:#FFF;
+	color:#000;
+	float:left;
+}
+#table2{
+	margin-left:150px;
+	border-collapse:collapse;
+	border-style:solid;
+	border-color:#06F;
+	background-color:#FFF;
+	color:#000;
+	float:left;
+}
+#listtable2{
+	margin-left:155px;
+	border-collapse:collapse;
+	border-style:solid 1px;
+	border-color:#06F;
+	background-color:#FFF;
+	color:#000;
+	float:left;
+}
+.NewBottom{
+	margin-bottom:100px !important;
+}
+#buttonBOTTOM3{
+	margin-top:150px;
+	width:300px !important;	
+}
+#buttonBOTTOM4{
+	margin-top:150px;
+	margin-left:50px;
+}
+.DISTDIST{
+	margin-left:450px !important;
+}
+
+
+
+
+
